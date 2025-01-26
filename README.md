@@ -30,7 +30,7 @@
 <h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Обо мне</h2>
 
 <p align="center" style="font-size: 20px; color: #ffffff; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 15px; border-radius: 15px; font-family: 'Arial', sans-serif;">
-  Привет! Я <strong style="color: #F79A00;">lotoscam</strong>, разработчик в JavaScript, Python, Node.js
+  разработчик на JavaScript, Python, Node.js
 </p>
 
 <br/>
