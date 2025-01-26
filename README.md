@@ -1,7 +1,5 @@
 <h1 align="center">
 
-<br/>
-
 <h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Всем привет!</h2>
 
 <p align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
@@ -11,20 +9,7 @@
 <p align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
   Основатель <strong>FZ + No name crashers + OTG Team</strong>
 </p>
-
 <br/>
-
-<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Контакты</h2>
-
-<ul align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
-  Discord сервер с краш ботами
-  Сурсы и сливы в тг
-</ul>
-
-<br/>
-
-<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Обо мне</h2>
-
 <p align="center" style="font-size: 20px; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 15px; border-radius: 15px; font-family: 'Arial', sans-serif;">
   разработчик на JavaScript, Python, Node.js
 </p>
