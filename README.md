@@ -6,6 +6,33 @@
 
 <br/>
 
+<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Всем привет!</h2>
+
+<p align="center" style="font-size: 18px; color: #ffffff;">
+  Никнейм: <strong style="color: #F79A00;">JKtimosha</strong>
+</p>
+
+<p align="center" style="font-size: 18px; color: #ffffff;">
+  Известность благодаря краш-ботам
+</p>
+
+<p align="center" style="font-size: 18px; color: #ffffff;">
+  Основатель <strong style="color: #F79A00;">JKCrashers</strong>
+</p>
+
+<br/>
+
+<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Контакты</h2>
+
+<ul align="center" style="font-size: 18px; color: #ffffff;">
+  <li>Discord сервер с краш ботами</li>
+  <li>Телеграм канал</li>
+  <li>Краш боты в тг</li>
+  <li>Софты, сурсы и сливы в тг</li>
+</ul>
+
+<br/>
+
 <h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Обо мне</h2>
 
 <p align="center" style="font-size: 18px; color: #ffffff; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 10px; border-radius: 10px;">
@@ -75,34 +102,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lotoscam&color=blue&style=flat-square" alt="Profile views" />
 </div>
-
----
-
-<h1 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  Всем привет!
-</h1>
-
-<p align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  Мой никнейм - <strong>JKtimosha</strong>
-</p>
-
-<p align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  Стал известным благодаря краш-ботам
-</p>
-
-<p align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  Основатель <strong>JKCrashers</strong>
-</p>
-
-<br/>
-
-<h2 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  Мои контакты
-</h2>
-
-<ul align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  <li>Discord сервер с краш ботами</li>
-  <li>Телеграм канал</li>
-  <li>Краш боты в тг</li>
-  <li>Софты, сурсы и сливы в тг</li>
-</ul>
