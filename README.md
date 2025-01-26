@@ -6,59 +6,53 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Всем привет!</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Всем привет!</h2>
 
-<p align="center" style="font-size: 18px; color: #ffffff;">
-  Никнейм: <strong style="color: #F79A00;">JKtimosha</strong>
+<p align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
+  Нейм: <strong style="color: #F79A00;">lotoscam</strong>
 </p>
 
-<p align="center" style="font-size: 18px; color: #ffffff;">
-  Известность благодаря краш-ботам
-</p>
-
-<p align="center" style="font-size: 18px; color: #ffffff;">
-  Основатель <strong style="color: #F79A00;">JKCrashers</strong>
+<p align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
+  Основатель <strong style="color: #F79A00;">FZ + No name crashers + OTG Team</strong>
 </p>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Контакты</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Контакты</h2>
 
-<ul align="center" style="font-size: 18px; color: #ffffff;">
+<ul align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
   <li>Discord сервер с краш ботами</li>
-  <li>Телеграм канал</li>
-  <li>Краш боты в тг</li>
-  <li>Софты, сурсы и сливы в тг</li>
+  <li>Сурсы и сливы в тг</li>
 </ul>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Обо мне</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Обо мне</h2>
 
-<p align="center" style="font-size: 18px; color: #ffffff; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 10px; border-radius: 10px;">
+<p align="center" style="font-size: 20px; color: #ffffff; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 15px; border-radius: 15px; font-family: 'Arial', sans-serif;">
   Привет! Я <strong style="color: #F79A00;">lotoscam</strong>, разработчик в JavaScript, Python, Node.js
 </p>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Знаю и изучаю</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Знаю и изучаю</h2>
 
 <div align="center">
   <table>
     <tr>
-      <th align="center" style="color: #F79A00; font-size: 24px;">Знаю</th>
-      <th align="center" style="color: #F79A00; font-size: 24px;">Изучаю</th>
+      <th align="center" style="color: #F79A00; font-size: 26px;">Знаю</th>
+      <th align="center" style="color: #F79A00; font-size: 26px;">Изучаю</th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" style="margin: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
       </td>
     </tr>
   </table>
@@ -66,7 +60,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Статистика</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Статистика</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lotoscam&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -76,7 +70,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Мои проекты</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Мои проекты</h2>
 
 <div align="center">
   <a href="https://github.com/lotoscam/Warlock">
@@ -89,7 +83,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 28px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Связь</h2>
+<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Связь</h2>
 
 <div align="center">
   <a href="https://discord.com/users/1321229587182522469">
