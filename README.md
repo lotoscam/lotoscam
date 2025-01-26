@@ -1,47 +1,43 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1200&color=F79A00&background=1A0CFF00&center=true&vCenter=true&repeat=false&random=true&width=441&height=59&lines=Добро+пожаловать!;Welcome!" alt="Typing SVG" />
-  </a>
-</h1>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Всем привет!</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Всем привет!</h2>
 
-<p align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
-  Нейм: <strong style="color: #F79A00;">lotoscam</strong>
+<p align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
+  Нейм: <strong>lotoscam</strong>
 </p>
 
-<p align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
-  Основатель <strong style="color: #F79A00;">FZ + No name crashers + OTG Team</strong>
+<p align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
+  Основатель <strong>FZ + No name crashers + OTG Team</strong>
 </p>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Контакты</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Контакты</h2>
 
-<ul align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
+<ul align="center" style="font-size: 20px; font-family: 'Arial', sans-serif;">
   Discord сервер с краш ботами
   Сурсы и сливы в тг
 </ul>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Обо мне</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Обо мне</h2>
 
-<p align="center" style="font-size: 20px; color: #ffffff; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 15px; border-radius: 15px; font-family: 'Arial', sans-serif;">
+<p align="center" style="font-size: 20px; background: linear-gradient(90deg, #1A0CFF00, #F79A00, #1A0CFF00); padding: 15px; border-radius: 15px; font-family: 'Arial', sans-serif;">
   разработчик на JavaScript, Python, Node.js
 </p>
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Знаю и изучаю</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Знаю и изучаю</h2>
 
 <div align="center">
   <table>
     <tr>
-      <th align="center" style="color: #F79A00; font-size: 26px;">Знаю</th>
-      <th align="center" style="color: #F79A00; font-size: 26px;">Изучаю</th>
+      <th align="center" style="font-size: 26px;">Знаю</th>
+      <th align="center" style="font-size: 26px;">Изучаю</th>
     </tr>
     <tr>
       <td align="center">
@@ -60,7 +56,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Статистика</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Статистика</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lotoscam&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -70,7 +66,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Мои проекты</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Мои проекты</h2>
 
 <div align="center">
   <a href="https://github.com/lotoscam/Warlock">
@@ -83,7 +79,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Связь</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Связь</h2>
 
 <div align="center">
   <a href="https://discord.com/users/1321229587182522469">
