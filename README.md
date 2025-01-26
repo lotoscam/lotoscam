@@ -21,8 +21,8 @@
 <h2 align="center" style="color: #F79A00; font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Контакты</h2>
 
 <ul align="center" style="font-size: 20px; color: #ffffff; font-family: 'Arial', sans-serif;">
-  <li>Discord сервер с краш ботами</li>
-  <li>Сурсы и сливы в тг</li>
+  Discord сервер с краш ботами
+  Сурсы и сливы в тг
 </ul>
 
 <br/>
