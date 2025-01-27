@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;">Знаю и изучаю</h2>
+<h2 align="center" style="font-size: 32px; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); font-family: 'Arial', sans-serif;"> </h2>
 
 <div align="center">
   <table>
